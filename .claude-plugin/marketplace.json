@@ -1,0 +1,9 @@
+{
+  "name": "ritchy-skills",
+  "owner": {"name": "Sponge Theory"},
+  "plugins": [
+    {"name": "ritchy-web", "source": "./plugins/ritchy-web", "description": "Recherche et lecture web pour Ritchy", "version": "0.1.0"},
+    {"name": "ritchy-ops", "source": "./plugins/ritchy-ops", "description": "Mémoire, point du matin et routines de Christophe", "version": "0.1.0"},
+    {"name": "ritchy-mac", "source": "./plugins/ritchy-mac", "description": "Piloter le Mac et les agents Claude Code de Christophe", "version": "0.1.0"}
+  ]
+}
